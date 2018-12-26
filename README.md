@@ -1,5 +1,5 @@
 # Web Development Basic
-__*Youtube Video:*__ 
+__*Youtube Video:*__ https://www.youtube.com/watch?v=dEgOxZSAdbM&t=58s
 
 __Overview:__
 - I will be mainly talking in __Urdu__.
@@ -13,7 +13,7 @@ __Overview:__
 
 
 ## Chapter 1: Introduction & Basic setup
-__*Youtube Video:*__ 
+__*Youtube Video:*__  https://www.youtube.com/watch?v=iLkU3DXAo2c
 
 - What is __web development__?
   - What are the benefits of web development?
@@ -25,6 +25,4 @@ __*Youtube Video:*__
     - How to install VSC?
 - What is source code?
   - How to __create__ & __use__ GitHub account
-  - https://github.com/asadalikanwal/webDevelopmentBasic
   
-  __*Youtube Video:*__ 
