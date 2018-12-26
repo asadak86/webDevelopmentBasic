@@ -1,4 +1,6 @@
 # Web Development Basic
+__*Youtube Video:*__ 
+
 __Overview:__
 - I will be mainly talking in __Urdu__.
 - I will start with very __basic__ and __simple examples__ by which you can understand easily.
@@ -8,7 +10,11 @@ __Overview:__
 - By the end of course you will be able to create __HTML websites__ using latest technologies.
 - Main idea is to share __knowledge__.
 
-## Chapter 1: Introduction
+
+
+## Chapter 1: Introduction & Basic setup
+__*Youtube Video:*__ 
+
 - What is __web development__?
   - What are the benefits of web development?
 - What is __IDE__(integrated development environment )?
@@ -20,3 +26,5 @@ __Overview:__
 - What is source code?
   - How to __create__ & __use__ GitHub account
   - https://github.com/asadalikanwal/webDevelopmentBasic
+  
+  __*Youtube Video:*__ 
