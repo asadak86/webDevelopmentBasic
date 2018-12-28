@@ -13,7 +13,7 @@ __Overview:__
 
 
 ## Chapter 1: Introduction & Basic setup
-__*Youtube Video:*__  https://www.youtube.com/watch?v=iLkU3DXAo2c
+__*Youtube Video:*__  https://www.youtube.com/watch?v=iLkU3DXAo2c&t=8s
 
 - What is __web development__?
   - What are the benefits of web development?
@@ -26,3 +26,18 @@ __*Youtube Video:*__  https://www.youtube.com/watch?v=iLkU3DXAo2c
 - What is source code?
   - How to __create__ & __use__ GitHub account
   
+  
+  
+## Chapter 2: First HTML Page
+__*Youtube Video:*__  https://www.youtube.com/watch?v=o4XdcZAUNc8&t=3s
+
+- HTML (Hyper Text Markup Language)
+  - How to create a web page
+- Tags
+  - <></>
+  - Everything should be inside <html></html>
+  - All tags are in lower case
+  - All tags should open and close
+  - Rules of tags (Sandwich)
+- html, head, body
+- h1, h2, h3, h4, h5, h6, p
